@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00f8b912-b62c-4dfd-9fdc-ae423346da35" name="Default Changelist" comment="init2">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="ff1c0fcf-9f48-434b-8bae-3d40f5eadf90" />
+  <component name="ProjectId" id="1tNrNMjuyP17gZhKBwbvsp2uhSK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/train_scripts/paras" />
+      <recent name="$PROJECT_DIR$/cnn" />
+      <recent name="$PROJECT_DIR$/train_scripts" />
+      <recent name="$PROJECT_DIR$/utils" />
+      <recent name="$PROJECT_DIR$/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.daily_sts_trend_alerm">
+    <configuration name="daily_sts_trend_alerm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/daily_sts_trend_alerm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="daily_sts_trend_pred" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/daily_sts_trend_pred.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_tushare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_source/data_tushare.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_xy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/train_scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_scripts/train_xy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_xy_scripts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/train_scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_scripts/train_xy_scripts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.daily_sts_trend_alerm" />
+        <item itemvalue="Python.data_tushare" />
+        <item itemvalue="Python.train_xy_scripts" />
+        <item itemvalue="Python.train_xy" />
+        <item itemvalue="Python.daily_sts_trend_pred" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00f8b912-b62c-4dfd-9fdc-ae423346da35" name="Default Changelist" comment="" />
+      <created>1622620347477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622620347477</updated>
+      <workItem from="1622620348616" duration="2386000" />
+      <workItem from="1622635171775" duration="715000" />
+      <workItem from="1625382560073" duration="1024000" />
+      <workItem from="1625383594790" duration="605000" />
+      <workItem from="1625541679871" duration="369000" />
+      <workItem from="1629611882514" duration="6373000" />
+      <workItem from="1629700369545" duration="13361000" />
+      <workItem from="1629790273779" duration="1210000" />
+      <workItem from="1629892493869" duration="1232000" />
+      <workItem from="1629950135543" duration="9373000" />
+      <workItem from="1630143854572" duration="7879000" />
+      <workItem from="1630230428260" duration="4659000" />
+      <workItem from="1630330519314" duration="624000" />
+      <workItem from="1630397014281" duration="2695000" />
+      <workItem from="1630504298382" duration="144000" />
+      <workItem from="1630504450419" duration="1892000" />
+      <workItem from="1630565335387" duration="1246000" />
+      <workItem from="1630667725407" duration="3271000" />
+      <workItem from="1630717505875" duration="18989000" />
+      <workItem from="1630889261959" duration="9641000" />
+      <workItem from="1630923992720" duration="5133000" />
+      <workItem from="1630981416347" duration="468000" />
+      <workItem from="1630982205275" duration="24538000" />
+      <workItem from="1631257792526" duration="9598000" />
+      <workItem from="1631272980949" duration="996000" />
+      <workItem from="1631273986384" duration="2962000" />
+      <workItem from="1631277097070" duration="5775000" />
+      <workItem from="1631347821298" duration="10882000" />
+      <workItem from="1631431690125" duration="7071000" />
+      <workItem from="1631612522151" duration="6603000" />
+      <workItem from="1632014443075" duration="11972000" />
+      <workItem from="1632106325495" duration="715000" />
+      <workItem from="1632107049409" duration="44169000" />
+      <workItem from="1632307563902" duration="5490000" />
+      <workItem from="1632368912824" duration="24641000" />
+      <workItem from="1632398983617" duration="528000" />
+      <workItem from="1632453658659" duration="17157000" />
+      <workItem from="1632554839919" duration="14499000" />
+      <workItem from="1632812082970" duration="6016000" />
+      <workItem from="1632818530830" duration="718000" />
+      <workItem from="1632821208315" duration="12086000" />
+      <workItem from="1632883482828" duration="3271000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1632885279811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632885279811</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init2">
+      <created>1632885508634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632885508634</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init2">
+      <created>1632886070677</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632886070677</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init2">
+      <created>1632886125258</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632886125258</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init2">
+      <created>1632886151490</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1632886151490</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="init2" />
+    <option name="LAST_COMMIT_MESSAGE" value="init2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1018" y="521" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1630232630155">
+      <screen x="65" y="24" width="2495" height="1416" />
+    </state>
+    <state x="1018" y="521" key="#com.intellij.fileTypes.FileTypeChooser/65.24.2495.1416@65.24.2495.1416" timestamp="1630232630155" />
+    <state x="164" y="96" width="1657" height="885" key="DiffContextDialog" timestamp="1632885915748">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="164" y="96" width="1657" height="885" key="DiffContextDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1632885915748" />
+    <state x="834" y="362" width="447" height="360" key="FileChooserDialogImpl" timestamp="1632884975183">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="834" y="362" width="447" height="360" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1632884975183" />
+    <state x="1099" y="477" width="424" height="482" key="FileChooserDialogImpl/65.24.2495.1416@65.24.2495.1416" timestamp="1632560585274" />
+    <state x="859" y="439" key="Github.ShareDialog" timestamp="1632885964042">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="859" y="439" key="Github.ShareDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1632885964042" />
+    <state width="1809" height="362" key="GridCell.Tab.0.bottom" timestamp="1632879822488">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="362" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1632879822488" />
+    <state width="2449" height="509" key="GridCell.Tab.0.bottom/65.24.2495.1416@65.24.2495.1416" timestamp="1632573859801" />
+    <state width="1809" height="362" key="GridCell.Tab.0.bottom/65.24.959.744@65.24.959.744" timestamp="1632818522858" />
+    <state width="1809" height="362" key="GridCell.Tab.0.center" timestamp="1632879822486">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="362" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1632879822486" />
+    <state width="2449" height="509" key="GridCell.Tab.0.center/65.24.2495.1416@65.24.2495.1416" timestamp="1632573859801" />
+    <state width="1809" height="362" key="GridCell.Tab.0.center/65.24.959.744@65.24.959.744" timestamp="1632818522858" />
+    <state width="1809" height="362" key="GridCell.Tab.0.left" timestamp="1632879822485">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="362" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1632879822485" />
+    <state width="2449" height="509" key="GridCell.Tab.0.left/65.24.2495.1416@65.24.2495.1416" timestamp="1632573859801" />
+    <state width="1809" height="362" key="GridCell.Tab.0.left/65.24.959.744@65.24.959.744" timestamp="1632818522858" />
+    <state width="1809" height="362" key="GridCell.Tab.0.right" timestamp="1632879822487">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="362" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1632879822487" />
+    <state width="2449" height="509" key="GridCell.Tab.0.right/65.24.2495.1416@65.24.2495.1416" timestamp="1632573859801" />
+    <state width="1809" height="362" key="GridCell.Tab.0.right/65.24.959.744@65.24.959.744" timestamp="1632818522858" />
+    <state width="2449" height="500" key="GridCell.Tab.1.bottom" timestamp="1631630200247">
+      <screen x="65" y="24" width="2495" height="1416" />
+    </state>
+    <state width="2449" height="500" key="GridCell.Tab.1.bottom/65.24.2495.1416@65.24.2495.1416" timestamp="1631630200247" />
+    <state width="2449" height="500" key="GridCell.Tab.1.center" timestamp="1631630200245">
+      <screen x="65" y="24" width="2495" height="1416" />
+    </state>
+    <state width="2449" height="500" key="GridCell.Tab.1.center/65.24.2495.1416@65.24.2495.1416" timestamp="1631630200245" />
+    <state width="2449" height="500" key="GridCell.Tab.1.left" timestamp="1631630200244">
+      <screen x="65" y="24" width="2495" height="1416" />
+    </state>
+    <state width="2449" height="500" key="GridCell.Tab.1.left/65.24.2495.1416@65.24.2495.1416" timestamp="1631630200244" />
+    <state width="2449" height="500" key="GridCell.Tab.1.right" timestamp="1631630200246">
+      <screen x="65" y="24" width="2495" height="1416" />
+    </state>
+    <state width="2449" height="500" key="GridCell.Tab.1.right/65.24.2495.1416@65.24.2495.1416" timestamp="1631630200246" />
+    <state x="486" y="174" key="SettingsEditor" timestamp="1632884574048">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="486" y="174" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1632884574048" />
+    <state x="592" y="275" key="Vcs.Push.Dialog.v2" timestamp="1632886501210">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="592" y="275" key="Vcs.Push.Dialog.v2/65.24.1855.1056@65.24.1855.1056" timestamp="1632886501210" />
+    <state x="164" y="96" width="2297" height="1245" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1632573859854">
+      <screen x="65" y="24" width="2495" height="1416" />
+    </state>
+    <state x="164" y="96" width="2297" height="1245" key="com.intellij.history.integration.ui.views.FileHistoryDialog/65.24.2495.1416@65.24.2495.1416" timestamp="1632573859854" />
+    <state x="778" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1632884915037">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="778" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/65.24.1855.1056@65.24.1855.1056" timestamp="1632884915037" />
+    <state x="792" y="439" key="git4idea.ui.GitStashDialog" timestamp="1632885980416">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="792" y="439" key="git4idea.ui.GitStashDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1632885980416" />
+    <state x="775" y="387" key="git4idea.ui.GitUnstashDialog" timestamp="1632886012112">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="775" y="387" key="git4idea.ui.GitUnstashDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1632886012112" />
+    <state x="975" y="326" width="672" height="678" key="search.everywhere.popup" timestamp="1630504409941">
+      <screen x="65" y="24" width="2495" height="1416" />
+    </state>
+    <state x="975" y="326" width="672" height="678" key="search.everywhere.popup/65.24.2495.1416@65.24.2495.1416" timestamp="1630504409941" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cnn/__init__.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cnn/xy.py</url>
+          <line>488</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/stock$train_xy.coverage" NAME="train_xy Coverage Results" MODIFIED="1631278104152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train_scripts" />
+    <SUITE FILE_PATH="coverage/stock$train_xy_scripts.coverage" NAME="train_xy_scripts Coverage Results" MODIFIED="1631362776431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train_scripts" />
+    <SUITE FILE_PATH="coverage/stock$data_tushare.coverage" NAME="data_tushare Coverage Results" MODIFIED="1632394016806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_source" />
+    <SUITE FILE_PATH="coverage/stock$daily_sts_trend_alerm.coverage" NAME="daily_sts_trend_alerm Coverage Results" MODIFIED="1632879072021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/stock$time_util.coverage" NAME="time_util Coverage Results" MODIFIED="1622620611365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/stock$daily_sts_trend_pred.coverage" NAME="daily_sts_trend_pred Coverage Results" MODIFIED="1630232302019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+  </component>
+</project>
