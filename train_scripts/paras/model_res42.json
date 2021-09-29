@@ -1,0 +1,8 @@
+{
+  "use_model": "StockResXY",
+  "loss_type": "focal",
+  "period": 112,
+  "features_num": 42,
+  "num_class": 3,
+  "schedule_learn": false
+}
